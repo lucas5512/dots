@@ -1,0 +1,7 @@
+[submodule "ohmyzsh"]
+	path = .oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh
+
+[submodule "NvChad"]
+  path = .config/nvim
+  url = https://github.com/NvChad/NvChad
